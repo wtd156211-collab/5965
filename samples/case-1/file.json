@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 9090
+  },
+  "limits": {
+    "qps": 150
+  },
+  "logLevel": "debug"
+}

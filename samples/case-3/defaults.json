@@ -1,0 +1,17 @@
+{
+  "base": {
+    "url": "https://api.example.com",
+    "version": "v2"
+  },
+  "service": {
+    "endpoint": "${base.url}",
+    "timeout": 30
+  },
+  "mirror": "${service.endpoint}",
+  "hosts": [
+    "h1",
+    "h2"
+  ],
+  "mirrorHost": "${hosts[1]}",
+  "version": "${base.version}"
+}

@@ -1,0 +1,20 @@
+{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8080,
+    "tls": {
+      "enabled": false,
+      "cert": ""
+    }
+  },
+  "limits": {
+    "qps": 100,
+    "burst": 200
+  },
+  "endpoints": [
+    "http://a",
+    "http://b"
+  ],
+  "retry": 3,
+  "logLevel": "info"
+}

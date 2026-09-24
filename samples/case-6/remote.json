@@ -1,0 +1,1802 @@
+{
+  "group0.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group0.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group0.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group0.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group0.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group0.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group0.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group0.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group0.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group0.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group1.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group1.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group1.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group1.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group1.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group1.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group1.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group1.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group1.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group1.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group2.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group2.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group2.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group2.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group2.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group2.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group2.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group2.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group2.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group2.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group3.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group3.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group3.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group3.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group3.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group3.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group3.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group3.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group3.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group3.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group4.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group4.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group4.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group4.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group4.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group4.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group4.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group4.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group4.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group4.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group5.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group5.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group5.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group5.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group5.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group5.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group5.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group5.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group5.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group5.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group6.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group6.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group6.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group6.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group6.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group6.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group6.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group6.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group6.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group6.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group7.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group7.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group7.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group7.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group7.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group7.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group7.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group7.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group7.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group7.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group8.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group8.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group8.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group8.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group8.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group8.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group8.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group8.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group8.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group8.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group9.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group9.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group9.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group9.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group9.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group9.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group9.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group9.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group9.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group9.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group10.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group10.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group10.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group10.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group10.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group10.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group10.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group10.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group10.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group10.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group11.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group11.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group11.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group11.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group11.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group11.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group11.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group11.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group11.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group11.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group12.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group12.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group12.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group12.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group12.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group12.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group12.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group12.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group12.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group12.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group13.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group13.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group13.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group13.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group13.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group13.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group13.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group13.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group13.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group13.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group14.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group14.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group14.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group14.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group14.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group14.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group14.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group14.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group14.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group14.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group15.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group15.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group15.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group15.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group15.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group15.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group15.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group15.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group15.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group15.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group16.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group16.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group16.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group16.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group16.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group16.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group16.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group16.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group16.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group16.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group17.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group17.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group17.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group17.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group17.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group17.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group17.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group17.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group17.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group17.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group18.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group18.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group18.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group18.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group18.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group18.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group18.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group18.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group18.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group18.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  },
+  "group19.settings.key0.level1.level2.level3": {
+    "value": 0,
+    "flag": false,
+    "list": [
+      0,
+      0,
+      0
+    ]
+  },
+  "group19.settings.key5.level1.level2.level3": {
+    "value": -5,
+    "flag": false,
+    "list": [
+      5,
+      5,
+      5
+    ]
+  },
+  "group19.settings.key10.level1.level2.level3": {
+    "value": -10,
+    "flag": false,
+    "list": [
+      10,
+      10,
+      10
+    ]
+  },
+  "group19.settings.key15.level1.level2.level3": {
+    "value": -15,
+    "flag": false,
+    "list": [
+      15,
+      15,
+      15
+    ]
+  },
+  "group19.settings.key20.level1.level2.level3": {
+    "value": -20,
+    "flag": false,
+    "list": [
+      20,
+      20,
+      20
+    ]
+  },
+  "group19.settings.key25.level1.level2.level3": {
+    "value": -25,
+    "flag": false,
+    "list": [
+      25,
+      25,
+      25
+    ]
+  },
+  "group19.settings.key30.level1.level2.level3": {
+    "value": -30,
+    "flag": false,
+    "list": [
+      30,
+      30,
+      30
+    ]
+  },
+  "group19.settings.key35.level1.level2.level3": {
+    "value": -35,
+    "flag": false,
+    "list": [
+      35,
+      35,
+      35
+    ]
+  },
+  "group19.settings.key40.level1.level2.level3": {
+    "value": -40,
+    "flag": false,
+    "list": [
+      40,
+      40,
+      40
+    ]
+  },
+  "group19.settings.key45.level1.level2.level3": {
+    "value": -45,
+    "flag": false,
+    "list": [
+      45,
+      45,
+      45
+    ]
+  }
+}

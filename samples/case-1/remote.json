@@ -1,0 +1,11 @@
+{
+  "server": {
+    "tls": {
+      "enabled": true
+    }
+  },
+  "endpoints": [
+    "https://x"
+  ],
+  "retry": 5
+}

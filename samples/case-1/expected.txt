@@ -1,0 +1,19 @@
+{
+  "server": {
+    "host": "10.0.0.5",
+    "port": 7070,
+    "tls": {
+      "enabled": true,
+      "cert": ""
+    }
+  },
+  "limits": {
+    "qps": 150,
+    "burst": null
+  },
+  "endpoints": [
+    "https://x"
+  ],
+  "retry": 5,
+  "logLevel": "debug"
+}
